@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ravindu_dineth" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu_dineth?logo=twitter&style=for-the-badge" alt="ravindu_dineth" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **dinethravindu1234@gmail.com**
 
